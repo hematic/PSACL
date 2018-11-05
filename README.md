@@ -1,5 +1,5 @@
-# PSSCSM
-PowerShell Functions for performing SCSM functions on a machine without the SCSM Console
+# psACL
+PowerShell Functions for performing folder ACL Operations
 
 ![alt text](https://github.com/hematic/Storage/raw/master/Files.png)
 
